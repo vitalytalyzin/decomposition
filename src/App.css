@@ -1,0 +1,13 @@
+.dflex {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: black;
+  color: antiquewhite;
+}
